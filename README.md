@@ -1,4 +1,4 @@
-![The Resource Manager Software for Adobe AIR](http://www.myflashlabs.com/wp-content/uploads/2016/12/myflashlabs-resource-manager-air-native-extension.jpg)
+![The Resource Manager Software for Adobe AIR](http://www.myflashlabs.com/wp-content/uploads/2016/12/myflashlabs-resource-manager-tool.jpg)
 # The Resource Manager Software for Adobe AIR V1.0.1
 
 This software is designed for Adobe AIR developers to enable them to easily explore and edit or modify the resources available in any ANE (AIR Native Extension) files.
