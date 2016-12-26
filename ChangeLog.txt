@@ -1,0 +1,4 @@
+The Resource Manager Software for Adobe AIR
+
+*Dec 26, 2016 - V1.0.0*
+* beginning of the journey!
